@@ -1,0 +1,190 @@
+date,tournament_page,opponent,result,maps_won,maps_lost,maps,hltv_match_id
+2026-10-10,ESL/Pro League/Season 24,aurora,W,2,1,Anubis 7-13; Cache 13-7; Mirage 13-8,2398754
+2026-10-09,ESL/Pro League/Season 24,parivision,W,2,0,Inferno 13-2; Dust2 13-10,2398751
+2026-10-05,ESL/Pro League/Season 24,falcons,W,2,1,Anubis 9-13; Dust2 13-4; Mirage 13-8,2398739
+2026-10-04,ESL/Pro League/Season 24,navi,W,2,1,Anubis 13-5; Nuke 5-13; Mirage 13-4,2398731
+2026-10-03,ESL/Pro League/Season 24,1w,W,2,0,Dust2 13-1; Cache 13-5,2398719
+2026-09-20,StarLadder/StarSeries/2026/Fall,furia,W,2,0,Cache 13-5; Anubis 13-8,2398107
+2026-09-20,StarLadder/StarSeries/2026/Fall,aurora,W,3,1,Anubis 13-4; Inferno 11-13; Mirage 13-4; Cache 13-7,2398108
+2026-09-19,StarLadder/StarSeries/2026/Fall,aurora,L,1,2,Anubis 7-13; Inferno 13-11; Nuke 8-13,2398105
+2026-09-18,StarLadder/StarSeries/2026/Fall,furia,W,2,0,Mirage 13-8; Dust2 13-5,2398102
+2026-09-17,StarLadder/StarSeries/2026/Fall,magic,W,2,0,Mirage 13-6; Dust2 13-9,2398089
+2026-09-05,BLAST/Open/2026/Fall,MOUZ,L,0,2,Dust2 11-13; Mirage 7-13,2396950
+2026-09-04,BLAST/Open/2026/Fall,furia,W,2,1,Nuke 6-13; Cache 13-11; Dust2 13-4,2396948
+2026-08-31,BLAST/Open/2026/Fall,fut,W,2,0,Anubis 13-7; Dust2 13-8,2396946
+2026-08-30,BLAST/Open/2026/Fall,legacy,W,2,1,Nuke 16-14 (OT); Mirage 9-13; Dust2 13-8,2396941
+2026-08-29,BLAST/Open/2026/Fall,9z,W,2,0,Dust2 13-2; Nuke 13-6,2396935
+2026-08-27,BLAST/Open/2026/Fall,ic,L,0,2,Anubis 8-13; Cache 13-16 (OT),2396927
+2026-08-21,Esports World Cup/2026,spirit,L,1,2,Anubis 11-13; Nuke 16-14 (OT); Mirage 3-13,2396610
+2026-08-20,Esports World Cup/2026,faze,W,2,0,Dust2 13-11; Cache 13-6,2396605
+2026-08-16,Esports World Cup/2026,lvg,W,2,0,Dust2 13-2; Inferno 13-5,2396596
+2026-08-14,Esports World Cup/2026,b8,L,1,2,Mirage 16-12 (OT); Inferno 11-13; Dust2 4-13,2396583
+2026-08-12,Esports World Cup/2026,100t,W,1,0,Nuke 13-4,2396567
+2026-07-24,BLAST/Bounty/2026/Summer/Qualifier,tl,L,0,2,Anubis 10-13; Nuke 9-13,2396004
+2026-06-19,Intel Extreme Masters/2026/Cologne/Playoffs,falcons,L,1,2,Anubis 11-13; Inferno 13-11; Dust2 11-13,2394999
+2026-06-14,Intel Extreme Masters/2026/Cologne/Stage 3,betboom,W,2,0,Overpass 13-8; Nuke 13-11,2394989
+2026-06-13,Intel Extreme Masters/2026/Cologne/Stage 3,MOUZ,W,2,1,Mirage 13-9; Dust2 7-13; Inferno 13-4,2394983
+2026-06-12,Intel Extreme Masters/2026/Cologne/Stage 3,9z,L,1,2,Inferno 13-4; Mirage 9-13; Dust2 11-13,2394978
+2026-06-11,Intel Extreme Masters/2026/Cologne/Stage 3,fut,W,2,1,Anubis 5-13; Overpass 13-2; Nuke 13-8,2394898
+2026-05-15,Intel Extreme Masters/2026/Atlanta,navi,L,1,2,Dust2 13-11; Anubis 11-13; Inferno 3-13,2394174
+2026-05-13,Intel Extreme Masters/2026/Atlanta,faze,W,2,0,Nuke 16-14 (OT); Dust2 13-5,2394166
+2026-05-13,Intel Extreme Masters/2026/Atlanta,b8,W,2,0,Mirage 13-5; Dust2 13-8,2394170
+2026-05-12,Intel Extreme Masters/2026/Atlanta,betboom,L,1,2,Anubis 10-13; Overpass 13-8; Nuke 8-13,2394157
+2026-05-11,Intel Extreme Masters/2026/Atlanta,bc.game,W,2,0,Mirage 13-7; Dust2 13-10,2394108
+2026-05-03,BLAST/Rivals/2026/Spring,navi,W,3,0,Nuke 16-12 (OT); Anubis 13-11; Dust2 13-3,2393350
+2026-05-02,BLAST/Rivals/2026/Spring,gl,W,2,0,Mirage 13-1; Overpass 16-14 (OT),2393349
+2026-04-30,BLAST/Rivals/2026/Spring,g2,W,2,1,Mirage 16-13 (OT); Overpass 11-13; Dust2 13-3,2393334
+2026-04-29,BLAST/Rivals/2026/Spring,fut,W,2,1,Mirage 13-6; Dust2 11-13; Nuke 13-11,2393319
+2026-04-19,Intel Extreme Masters/2026/Rio,spirit,W,3,0,Mirage 16-13 (OT); Nuke 13-10; Dust2 13-5,2393245
+2026-04-18,Intel Extreme Masters/2026/Rio,furia,W,2,0,Overpass 13-10; Ancient 13-10,2393243
+2026-04-17,Intel Extreme Masters/2026/Rio,navi,W,2,0,Mirage 13-4; Dust2 13-6,2393241
+2026-04-15,Intel Extreme Masters/2026/Rio,falcons,L,1,2,Mirage 10-13; Dust2 13-6; Nuke 14-16 (OT),2393236
+2026-04-14,Intel Extreme Masters/2026/Rio,g2,W,2,1,Mirage 5-13; Inferno 16-13 (OT); Dust2 13-11,2393224
+2026-04-13,Intel Extreme Masters/2026/Rio,red canids,W,2,0,Nuke 13-4; Overpass 13-6,2393081
+2026-03-29,BLAST/Open/2026/Spring,navi,W,3,0,Inferno 13-7; Anubis 13-10; Dust2 13-10,2391775
+2026-03-28,BLAST/Open/2026/Spring,aurora,W,2,0,Inferno 13-5; Nuke 13-5,2391773
+2026-03-23,BLAST/Open/2026/Spring,parivision,W,2,0,Mirage 13-9; Inferno 16-12 (OT),2391769
+2026-03-21,BLAST/Open/2026/Spring,mongolz,W,2,0,Mirage 13-4; Overpass 16-13 (OT),2391762
+2026-03-19,BLAST/Open/2026/Spring,9z,W,2,0,Overpass 13-3; Nuke 13-5,2390818
+2026-02-22,PGL/2026/Cluj-Napoca,parivision,W,3,0,Overpass 13-10; Dust2 13-4; Inferno 16-13 (OT),2389987
+2026-02-21,PGL/2026/Cluj-Napoca,mongolz,W,2,0,Mirage 16-13 (OT); Dust2 13-3,2389985
+2026-02-20,PGL/2026/Cluj-Napoca,aurora,W,2,0,Inferno 13-8; Overpass 13-10,2389982
+2026-02-16,PGL/2026/Cluj-Napoca,MOUZ,W,2,0,Dust2 13-5; Inferno 13-8,2389967
+2026-02-15,PGL/2026/Cluj-Napoca,mongolz,W,2,1,Mirage 10-13; Dust2 13-4; Nuke 13-4,2389961
+2026-02-14,PGL/2026/Cluj-Napoca,g2,W,2,1,Mirage 13-11; Inferno 8-13; Anubis 13-8,2389951
+2026-02-08,Intel Extreme Masters/2026/Kraków,furia,W,3,1,Mirage 11-13; Inferno 13-8; Nuke 13-2; Overpass 13-10,2389666
+2026-02-07,Intel Extreme Masters/2026/Kraków,MOUZ,W,2,0,Nuke 13-7; Dust2 13-6,2389664
+2026-02-03,Intel Extreme Masters/2026/Kraków,aurora,W,2,0,Ancient 25-22 (OT); Overpass 13-7,2389658
+2026-02-02,Intel Extreme Masters/2026/Kraków,3dmax,W,2,0,Inferno 13-6; Dust2 13-6,2389649
+2026-01-31,Intel Extreme Masters/2026/Kraków,bc.game,W,2,0,Dust2 13-8; Overpass 13-5,2389641
+2026-01-24,BLAST/Bounty/2026/Winter,falcons,L,1,2,Inferno 10-13; Anubis 13-4; Mirage 6-13,2389279
+2026-01-23,BLAST/Bounty/2026/Winter,gl,W,2,0,Inferno 13-9; Dust2 13-11,2389277
+2026-01-18,BLAST/Bounty/2026/Winter/Qualifier,eyeballers,W,2,0,Anubis 19-16 (OT); Overpass 13-8,2389273
+2026-01-14,BLAST/Bounty/2026/Winter/Qualifier,vp,W,2,0,Overpass 13-8; Dust2 13-6,2389263
+2025-12-14,StarLadder/2025/Major/Playoffs,faze,W,3,1,Nuke 6-13; Dust2 13-3; Inferno 13-9; Overpass 13-2,2388130
+2025-12-13,StarLadder/2025/Major/Playoffs,spirit,W,2,0,Mirage 19-17 (OT); Dust2 13-8,2388128
+2025-12-11,StarLadder/2025/Major/Playoffs,mongolz,W,2,0,Mirage 13-5; Dust2 13-4,2388124
+2025-12-06,StarLadder/2025/Major/Stage 3,navi,W,2,0,Inferno 13-11; Train 13-11,2388115
+2025-12-05,StarLadder/2025/Major/Stage 3,b8,W,1,0,Inferno 13-2,2388108
+2025-12-04,StarLadder/2025/Major/Stage 3,faze,L,0,1,Nuke 7-13,2388095
+2025-12-04,StarLadder/2025/Major/Stage 3,3dmax,W,1,0,Nuke 13-4,2388100
+2025-11-15,BLAST/Rivals/2025/Fall,falcons,L,0,2,Inferno 13-16 (OT); Nuke 7-13,2387549
+2025-11-14,BLAST/Rivals/2025/Fall,spirit,W,2,1,Dust2 11-13; Nuke 19-16 (OT); Mirage 16-13 (OT),2387547
+2025-11-13,BLAST/Rivals/2025/Fall,furia,L,1,2,Nuke 11-13; Overpass 16-13 (OT); Inferno 5-13,2387545
+2025-11-12,BLAST/Rivals/2025/Fall,tyloo,W,2,1,Overpass 13-2; Nuke 4-13; Inferno 13-11,2387506
+2025-11-09,Intel Extreme Masters/2025/Chengdu,furia,L,0,3,Ancient 11-13; Inferno 10-13; Overpass 11-13,2387414
+2025-11-08,Intel Extreme Masters/2025/Chengdu,MOUZ,W,2,1,Nuke 16-13 (OT); Train 11-13; Inferno 13-10,2387412
+2025-11-07,Intel Extreme Masters/2025/Chengdu,astralis,W,2,1,Inferno 13-7; Nuke 14-16 (OT); Mirage 13-7,2387410
+2025-11-05,Intel Extreme Masters/2025/Chengdu,lvg,W,2,0,Dust2 13-2; Nuke 13-5,2387401
+2025-11-05,Intel Extreme Masters/2025/Chengdu,g2,W,2,0,Train 13-4; Mirage 13-11,2387406
+2025-11-04,Intel Extreme Masters/2025/Chengdu,MOUZ,L,1,2,Train 3-13; Nuke 13-8; Inferno 19-22 (OT),2387395
+2025-11-03,Intel Extreme Masters/2025/Chengdu,vp,W,2,1,Overpass 9-13; Dust2 13-11; Mirage 13-4,2387383
+2025-10-12,ESL/Pro League/Season 22,falcons,W,3,0,Inferno 13-10; Train 13-9; Dust2 13-5,2385970
+2025-10-11,ESL/Pro League/Season 22,faze,W,2,1,Mirage 20-22 (OT); Inferno 13-9; Dust2 13-8,2385968
+2025-10-10,ESL/Pro League/Season 22,furia,W,2,1,Overpass 9-13; Inferno 13-7; Nuke 13-7,2385966
+2025-10-07,ESL/Pro League/Season 22/Stage 2,g2,W,2,0,Inferno 13-2; Mirage 16-13 (OT),2385958
+2025-10-06,ESL/Pro League/Season 22/Stage 2,hotu,W,2,0,Overpass 13-8; Dust2 13-5,2385946
+2025-10-05,ESL/Pro League/Season 22/Stage 2,gl,W,2,0,Overpass 13-3; Dust2 13-1,2385943
+2025-10-04,ESL/Pro League/Season 22/Stage 2,gentle mates,L,0,2,Nuke 6-13; Train 11-13,2385935
+2025-09-07,BLAST/Open/2025/Fall,g2,L,2,3,Dust2 3-13; Mirage 13-6; Overpass 13-6; Inferno 12-16 (OT); Train 6-13,2384856
+2025-09-06,BLAST/Open/2025/Fall,MOUZ,W,2,0,Mirage 13-7; Inferno 13-8,2384854
+2025-09-01,BLAST/Open/2025/Fall/Qualifier,faze,W,2,1,Mirage 17-19 (OT); Nuke 19-16 (OT); Inferno 13-5,2384842
+2025-08-29,BLAST/Open/2025/Fall/Qualifier,gl,W,2,1,Train 13-9; Inferno 7-13; Nuke 13-4,2384838
+2025-08-27,BLAST/Open/2025/Fall/Qualifier,m80,W,2,1,Overpass 3-13; Dust2 13-7; Inferno 13-10,2384807
+2025-08-24,Esports World Cup/2025,falcons,L,1,2,Inferno 13-9; Train 3-13; Nuke 3-13,2384387
+2025-08-23,Esports World Cup/2025,mongolz,L,1,2,Mirage 8-13; Dust2 13-9; Nuke 7-13,2384385
+2025-08-21,Esports World Cup/2025,tyloo,W,2,0,Inferno 13-4; Nuke 13-8,2384381
+2025-08-20,Esports World Cup/2025,tl,W,2,0,Mirage 13-11; Dust2 19-16 (OT),2384299
+2025-08-16,BLAST/Bounty/2025/Fall,mongolz,L,0,2,Mirage 7-13; Inferno 11-13,2384155
+2025-08-15,BLAST/Bounty/2025/Fall,tl,W,2,0,Train 16-13 (OT); Nuke 19-16 (OT),2384152
+2025-08-10,BLAST/Bounty/2025/Fall/Qualifier,legacy,W,2,0,Mirage 16-12 (OT); Dust2 13-8,2384149
+2025-08-08,BLAST/Bounty/2025/Fall/Qualifier,nrg,W,2,0,Mirage 13-5; Dust2 13-4,2384140
+2025-08-02,Intel Extreme Masters/2025/Cologne,MOUZ,L,0,2,Mirage 9-13; Train 8-13,2383842
+2025-07-29,Intel Extreme Masters/2025/Cologne,mongolz,W,2,0,Mirage 13-5; Inferno 13-8,2383830
+2025-07-27,Intel Extreme Masters/2025/Cologne,g2,W,2,0,Inferno 13-5; Train 13-10,2383824
+2025-07-26,Intel Extreme Masters/2025/Cologne,astralis,W,2,0,Nuke 13-11; Overpass 13-8,2383757
+2025-06-22,BLAST/Major/2025/Austin/Playoffs,mongolz,W,2,1,Mirage 5-13; Dust2 13-4; Inferno 13-6,2382619
+2025-06-21,BLAST/Major/2025/Austin/Playoffs,MOUZ,W,2,1,Mirage 13-8; Inferno 4-13; Train 13-6,2382618
+2025-06-20,BLAST/Major/2025/Austin/Playoffs,navi,W,2,0,Mirage 13-9; Nuke 13-11,2382616
+2025-06-14,BLAST/Major/2025/Austin/Stage 3,vp,W,2,0,Train 13-6; Dust2 13-6,2382608
+2025-06-13,BLAST/Major/2025/Austin/Stage 3,3dmax,W,1,0,Nuke 13-2,2382596
+2025-06-12,BLAST/Major/2025/Austin/Stage 3,legacy,L,0,1,Inferno 3-13,2382432
+2025-06-12,BLAST/Major/2025/Austin/Stage 3,nemiga,W,1,0,Dust2 13-6,2382593
+2025-05-25,Intel Extreme Masters/2025/Dallas,MOUZ,W,3,0,Dust2 13-11; Mirage 13-9; Inferno 13-8,2382695
+2025-05-24,Intel Extreme Masters/2025/Dallas,falcons,W,2,1,Dust2 13-7; Train 6-13; Inferno 13-11,2382694
+2025-05-21,Intel Extreme Masters/2025/Dallas,mongolz,W,2,1,Inferno 13-10; Nuke 7-13; Mirage 13-11,2382681
+2025-05-20,Intel Extreme Masters/2025/Dallas,gl,W,2,0,Mirage 13-9; Nuke 13-10,2382675
+2025-05-19,Intel Extreme Masters/2025/Dallas,legacy,W,2,0,Inferno 13-5; Dust2 13-11,2382375
+2025-05-04,BLAST/Rivals/2025/Spring,falcons,W,3,2,Inferno 9-13; Dust2 13-6; Train 13-6; Mirage 14-16 (OT); Nuke 13-8,2381918
+2025-05-03,BLAST/Rivals/2025/Spring,spirit,W,2,0,Mirage 13-8; Nuke 13-9,2381917
+2025-05-01,BLAST/Rivals/2025/Spring,MOUZ,W,2,1,Mirage 9-13; Inferno 13-9; Train 13-8,2381911
+2025-04-30,BLAST/Rivals/2025/Spring,wildcard,W,2,0,Inferno 13-7; Dust2 13-6,2381906
+2025-04-27,Intel Extreme Masters/2025/Melbourne,falcons,W,3,2,Inferno 13-2; Dust2 12-16 (OT); Train 13-9; Mirage 10-13; Nuke 22-20 (OT),2381773
+2025-04-26,Intel Extreme Masters/2025/Melbourne,mongolz,W,2,0,Mirage 13-3; Nuke 13-3,2381772
+2025-04-23,Intel Extreme Masters/2025/Melbourne,falcons,W,2,0,Mirage 16-13 (OT); Inferno 13-8,2381768
+2025-04-22,Intel Extreme Masters/2025/Melbourne,tl,W,2,0,Mirage 13-5; Nuke 13-8,2381759
+2025-04-21,Intel Extreme Masters/2025/Melbourne,fq,W,2,0,Anubis 13-2; Nuke 13-8,2381641
+2025-03-30,BLAST/Open/2025/Spring,MOUZ,W,3,2,Inferno 13-0; Mirage 11-13; Dust2 11-13; Nuke 13-7; Train 13-7,2380134
+2025-03-29,BLAST/Open/2025/Spring,spirit,W,2,1,Anubis 13-6; Nuke 5-13; Mirage 13-10,2380132
+2025-03-24,BLAST/Open/2025/Spring,MOUZ,W,2,0,Mirage 13-11; Dust2 13-11,2380126
+2025-03-21,BLAST/Open/2025/Spring,vp,W,2,0,Anubis 13-6; Inferno 13-5,2380115
+2025-03-19,BLAST/Open/2025/Spring,astralis,W,2,0,Inferno 13-4; Dust2 13-6,2380002
+2025-03-16,ESL/Pro League/Season 21,MOUZ,W,3,0,Dust2 13-9; Nuke 13-4; Inferno 13-5,2380078
+2025-03-15,ESL/Pro League/Season 21,mongolz,W,2,1,Anubis 13-4; Nuke 14-16 (OT); Inferno 13-2,2380076
+2025-03-14,ESL/Pro League/Season 21,tl,W,2,0,Anubis 13-9; Dust2 13-9,2380072
+2025-03-09,ESL/Pro League/Season 21/Stage 2,MOUZ,W,2,0,Inferno 13-6; Dust2 13-7,2380059
+2025-03-08,ESL/Pro League/Season 21/Stage 2,3dmax,W,2,0,Train 13-5; Dust2 13-7,2380051
+2025-03-07,ESL/Pro League/Season 21/Stage 2,mibr,W,2,1,Anubis 7-13; Inferno 13-3; Train 13-8,2380040
+2025-02-09,Intel Extreme Masters/2025/Katowice,spirit,W,3,0,Dust2 13-6; Nuke 13-5; Mirage 13-11,2378917
+2025-02-08,Intel Extreme Masters/2025/Katowice,mongolz,W,2,0,Mirage 13-7; Nuke 13-9,2378915
+2025-02-04,Intel Extreme Masters/2025/Katowice,vp,W,2,0,Anubis 13-8; Inferno 13-5,2378910
+2025-02-02,Intel Extreme Masters/2025/Katowice,faze,W,2,1,Nuke 13-3; Anubis 10-13; Dust2 19-16 (OT),2378899
+2025-02-01,Intel Extreme Masters/2025/Katowice,3dmax,W,2,0,Inferno 19-16 (OT); Nuke 13-9,2378782
+2025-01-24,BLAST/Bounty/2025/Spring,ef,L,0,2,Anubis 9-13; Mirage 11-13,2378456
+2025-01-19,BLAST/Bounty/2025/Spring/Qualifier,vp,W,2,0,Train 13-11; Inferno 13-6,2378228
+2025-01-15,BLAST/Bounty/2025/Spring/Qualifier,metizport,W,2,0,Mirage 13-11; Dust2 13-9,2378211
+2024-12-13,Perfect World/Major/2024/Shanghai/Playoff Stage,faze,L,1,2,Nuke 13-6; Mirage 8-13; Anubis 7-13,2377732
+2024-12-06,Perfect World/Major/2024/Shanghai/Elimination Stage,mibr,W,2,0,Mirage 13-3; Anubis 13-5,2377717
+2024-12-05,Perfect World/Major/2024/Shanghai/Elimination Stage,gl,W,1,0,Mirage 13-7,2377698
+2024-12-05,Perfect World/Major/2024/Shanghai/Elimination Stage,furia,W,1,0,Mirage 16-13 (OT),2377705
+2024-11-18,Perfect World/Major/2024/Shanghai/Europe A,faze,W,2,0,Mirage 13-5; Dust2 13-11,2377014
+2024-11-17,Perfect World/Major/2024/Shanghai/Europe A,gl,W,1,0,Inferno 13-8,2376939
+2024-11-17,Perfect World/Major/2024/Shanghai/Europe A,betboom,W,1,0,Nuke 13-3,2377002
+2024-11-02,BLAST/Premier/2024/World Final,g2,L,1,2,Dust2 10-13; Inferno 13-7; Mirage 8-13,2376883
+2024-11-01,BLAST/Premier/2024/World Final,MOUZ,W,2,0,Dust2 13-6; Mirage 13-6,2376881
+2024-10-31,BLAST/Premier/2024/World Final,tl,W,2,1,Anubis 10-13; Dust2 13-3; Nuke 13-11,2376878
+2024-10-30,BLAST/Premier/2024/World Final,spirit,L,0,2,Anubis 9-13; Mirage 11-13,2376877
+2024-10-11,Intel Extreme Masters/2024/Rio,MOUZ,L,1,2,Mirage 13-7; Nuke 11-13; Inferno 10-13,2376506
+2024-10-09,Intel Extreme Masters/2024/Rio,heroic,L,0,2,Mirage 11-13; Anubis 5-13,2376502
+2024-10-08,Intel Extreme Masters/2024/Rio,mongolz,W,2,0,Inferno 19-17 (OT); Nuke 13-8,2376493
+2024-10-07,Intel Extreme Masters/2024/Rio,9z,W,1,0,Mirage 13-3,2376223
+2024-09-28,BLAST/Premier/2024/Fall,g2,L,1,2,Anubis 13-9; Dust2 7-13; Mirage 14-16 (OT),2375775
+2024-09-26,BLAST/Premier/2024/Fall,tl,W,2,0,Anubis 16-12 (OT); Nuke 13-11,2375772
+2024-09-25,BLAST/Premier/2024/Fall,astralis,W,2,0,Inferno 13-0; Dust2 13-4,2375767
+2024-09-19,ESL/Pro League/Season 20,ef,L,1,2,Anubis 14-16 (OT); Nuke 13-5; Inferno 20-22 (OT),2375423
+2024-09-15,ESL/Pro League/Season 20,tl,W,2,1,Anubis 10-13; Nuke 13-5; Dust2 13-9,2375413
+2024-09-12,ESL/Pro League/Season 20,furia,W,2,0,Vertigo 13-7; Dust2 13-3,2375394
+2024-09-11,ESL/Pro League/Season 20,atox esports,W,2,0,Inferno 13-11; Nuke 13-7,2375365
+2024-08-18,Intel Extreme Masters/2024/Cologne,navi,W,3,1,Nuke 16-14 (OT); Dust2 10-13; Mirage 22-20 (OT); Inferno 13-9,2374326
+2024-08-17,Intel Extreme Masters/2024/Cologne,saw,W,2,0,Nuke 13-6; Dust2 13-5,2374325
+2024-08-13,Intel Extreme Masters/2024/Cologne,MOUZ,W,2,0,Dust2 13-6; Vertigo 16-13 (OT),2374320
+2024-08-12,Intel Extreme Masters/2024/Cologne,faze,W,2,1,Inferno 8-13; Dust2 16-12 (OT); Anubis 13-9,2374315
+2024-08-11,Intel Extreme Masters/2024/Cologne,furia,W,2,0,Inferno 13-3; Mirage 13-2,2374305
+2024-08-03,BLAST/Premier/2024/Fall/Groups,astralis,W,2,1,Vertigo 10-13; Mirage 13-10; Nuke 13-7,2373792
+2024-07-30,BLAST/Premier/2024/Fall/Groups,astralis,W,2,0,Nuke 13-7; Dust2 13-11,2373781
+2024-07-29,BLAST/Premier/2024/Fall/Groups,gl,W,2,1,Anubis 10-13; Mirage 19-17 (OT); Dust2 13-5,2373773
+2024-07-19,Esports World Cup/2024,vp,L,1,2,Mirage 22-20 (OT); Inferno 7-13; Dust2 5-13,2373286
+2024-07-17,Esports World Cup/2024,m80,W,2,0,Vertigo 13-11; Dust2 13-5,2373273
+2024-06-15,BLAST/Premier/2024/Spring,spirit,L,1,2,Mirage 13-11; Dust2 9-13; Anubis 9-13,2372744
+2024-06-14,BLAST/Premier/2024/Spring,faze,W,2,1,Inferno 4-13; Dust2 13-10; Mirage 13-6,2372742
+2024-06-13,BLAST/Premier/2024/Spring,g2,W,2,1,Inferno 13-4; Anubis 9-13; Mirage 13-5,2372740
+2024-06-12,BLAST/Premier/2024/Spring,vp,L,1,2,Inferno 13-5; Dust2 11-13; Anubis 10-13,2372738
+2024-06-02,Intel Extreme Masters/2024/Dallas,g2,L,1,2,Inferno 16-19 (OT); Anubis 16-13 (OT); Nuke 8-13,2372350
+2024-06-01,Intel Extreme Masters/2024/Dallas,spirit,W,2,0,Dust2 13-6; Mirage 13-11,2372349
+2024-05-31,Intel Extreme Masters/2024/Dallas,heroic,W,2,0,Nuke 13-8; Dust2 13-2,2372347
+2024-05-29,Intel Extreme Masters/2024/Dallas,9z,L,0,2,Dust2 9-13; Anubis 14-16 (OT),2372343
+2024-05-27,Intel Extreme Masters/2024/Dallas,monte,W,1,0,Nuke 16-12 (OT),2372325
+2024-05-27,Intel Extreme Masters/2024/Dallas,g2,W,2,0,Dust2 13-6; Anubis 13-5,2372330
+2024-05-12,ESL/Pro League/Season 19,MOUZ,L,0,3,Inferno 9-13; Mirage 8-13; Nuke 5-13,2371552
+2024-05-11,ESL/Pro League/Season 19,astralis,W,2,1,Mirage 9-13; Vertigo 16-13 (OT); Inferno 13-8,2371551
+2024-05-10,ESL/Pro League/Season 19,faze,W,2,0,Nuke 13-3; Vertigo 13-10,2371549

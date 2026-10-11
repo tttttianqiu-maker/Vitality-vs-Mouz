@@ -1,0 +1,435 @@
+date,opponent,hltv_match_id,step,team,action,map,score_left,score_right,left_team
+2026-10-10,aurora,2398754,1,Aurora,BANNED,Dust2,,,Aurora
+2026-10-10,aurora,2398754,2,Vitality,BANNED,Ancient,,,Aurora
+2026-10-10,aurora,2398754,3,Aurora,PICKED,Anubis,13,7,Aurora
+2026-10-10,aurora,2398754,4,Vitality,PICKED,Cache,7,13,Aurora
+2026-10-10,aurora,2398754,5,Aurora,BANNED,Inferno,,,Aurora
+2026-10-10,aurora,2398754,6,Vitality,BANNED,Nuke,,,Aurora
+2026-10-10,aurora,2398754,7,,LEFTOVER,Mirage,8,13,Aurora
+2026-10-09,parivision,2398751,1,PARIVISION,BANNED,Nuke,,,Vitality
+2026-10-09,parivision,2398751,2,Vitality,BANNED,Ancient,,,Vitality
+2026-10-09,parivision,2398751,3,PARIVISION,PICKED,Inferno,13,2,Vitality
+2026-10-09,parivision,2398751,4,Vitality,PICKED,Dust2,13,10,Vitality
+2026-10-09,parivision,2398751,5,PARIVISION,BANNED,Cache,,,Vitality
+2026-10-09,parivision,2398751,6,Vitality,BANNED,Mirage,,,Vitality
+2026-10-09,parivision,2398751,7,,LEFTOVER,Anubis,,,Vitality
+2026-10-05,falcons,2398739,1,Falcons,BANNED,Cache,,,Vitality
+2026-10-05,falcons,2398739,2,Vitality,BANNED,Ancient,,,Vitality
+2026-10-05,falcons,2398739,3,Falcons,PICKED,Anubis,9,13,Vitality
+2026-10-05,falcons,2398739,4,Vitality,PICKED,Dust2,13,4,Vitality
+2026-10-05,falcons,2398739,5,Falcons,BANNED,Inferno,,,Vitality
+2026-10-05,falcons,2398739,6,Vitality,BANNED,Nuke,,,Vitality
+2026-10-05,falcons,2398739,7,,LEFTOVER,Mirage,13,8,Vitality
+2026-10-04,navi,2398731,1,Natus Vincere,BANNED,Dust2,,,Vitality
+2026-10-04,navi,2398731,2,Vitality,BANNED,Ancient,,,Vitality
+2026-10-04,navi,2398731,3,Natus Vincere,PICKED,Anubis,13,5,Vitality
+2026-10-04,navi,2398731,4,Vitality,PICKED,Nuke,5,13,Vitality
+2026-10-04,navi,2398731,5,Natus Vincere,BANNED,Inferno,,,Vitality
+2026-10-04,navi,2398731,6,Vitality,BANNED,Cache,,,Vitality
+2026-10-04,navi,2398731,7,,LEFTOVER,Mirage,13,4,Vitality
+2026-10-03,1w,2398719,1,1win,BANNED,Nuke,,,Vitality
+2026-10-03,1w,2398719,2,Vitality,BANNED,Ancient,,,Vitality
+2026-10-03,1w,2398719,3,1win,PICKED,Dust2,13,1,Vitality
+2026-10-03,1w,2398719,4,Vitality,PICKED,Cache,13,5,Vitality
+2026-10-03,1w,2398719,5,1win,BANNED,Anubis,,,Vitality
+2026-10-03,1w,2398719,6,Vitality,BANNED,Mirage,,,Vitality
+2026-10-03,1w,2398719,7,,LEFTOVER,Inferno,,,Vitality
+2026-09-20,furia,2398107,1,FURIA,BANNED,Dust2,,,Vitality
+2026-09-20,furia,2398107,2,Vitality,BANNED,Ancient,,,Vitality
+2026-09-20,furia,2398107,3,FURIA,PICKED,Cache,13,5,Vitality
+2026-09-20,furia,2398107,4,Vitality,PICKED,Anubis,13,8,Vitality
+2026-09-20,furia,2398107,5,Vitality,BANNED,Mirage,,,Vitality
+2026-09-20,furia,2398107,6,FURIA,BANNED,Inferno,,,Vitality
+2026-09-20,furia,2398107,7,,LEFTOVER,Nuke,,,Vitality
+2026-09-20,aurora,2398108,1,Aurora,BANNED,Dust2,,,Aurora
+2026-09-20,aurora,2398108,2,Vitality,BANNED,Ancient,,,Aurora
+2026-09-20,aurora,2398108,3,Aurora,PICKED,Anubis,4,13,Aurora
+2026-09-20,aurora,2398108,4,Vitality,PICKED,Inferno,13,11,Aurora
+2026-09-20,aurora,2398108,5,Aurora,PICKED,Mirage,4,13,Aurora
+2026-09-20,aurora,2398108,6,Vitality,PICKED,Cache,7,13,Aurora
+2026-09-20,aurora,2398108,7,,LEFTOVER,Nuke,,,Aurora
+2026-09-19,aurora,2398105,1,Aurora,BANNED,Dust2,,,Aurora
+2026-09-19,aurora,2398105,2,Vitality,BANNED,Ancient,,,Aurora
+2026-09-19,aurora,2398105,3,Aurora,PICKED,Anubis,13,7,Aurora
+2026-09-19,aurora,2398105,4,Vitality,PICKED,Inferno,11,13,Aurora
+2026-09-19,aurora,2398105,5,Vitality,BANNED,Mirage,,,Aurora
+2026-09-19,aurora,2398105,6,Aurora,BANNED,Cache,,,Aurora
+2026-09-19,aurora,2398105,7,,LEFTOVER,Nuke,13,8,Aurora
+2026-09-18,furia,2398102,1,FURIA,BANNED,Anubis,,,Vitality
+2026-09-18,furia,2398102,2,Vitality,BANNED,Ancient,,,Vitality
+2026-09-18,furia,2398102,3,FURIA,PICKED,Mirage,13,8,Vitality
+2026-09-18,furia,2398102,4,Vitality,PICKED,Dust2,13,5,Vitality
+2026-09-18,furia,2398102,5,Vitality,BANNED,Nuke,,,Vitality
+2026-09-18,furia,2398102,6,FURIA,BANNED,Inferno,,,Vitality
+2026-09-18,furia,2398102,7,,LEFTOVER,Cache,,,Vitality
+2026-09-17,magic,2398089,1,magic,BANNED,Nuke,,,Vitality
+2026-09-17,magic,2398089,2,Vitality,BANNED,Ancient,,,Vitality
+2026-09-17,magic,2398089,3,magic,PICKED,Mirage,13,6,Vitality
+2026-09-17,magic,2398089,4,Vitality,PICKED,Dust2,13,9,Vitality
+2026-09-17,magic,2398089,5,Vitality,BANNED,Anubis,,,Vitality
+2026-09-17,magic,2398089,6,magic,BANNED,Cache,,,Vitality
+2026-09-17,magic,2398089,7,,LEFTOVER,Inferno,,,Vitality
+2026-09-05,MOUZ,2396950,1,Vitality,BANNED,Ancient,,,MOUZ
+2026-09-05,MOUZ,2396950,2,MOUZ,BANNED,Anubis,,,MOUZ
+2026-09-05,MOUZ,2396950,3,Vitality,PICKED,Dust2,13,11,MOUZ
+2026-09-05,MOUZ,2396950,4,MOUZ,PICKED,Mirage,13,7,MOUZ
+2026-09-05,MOUZ,2396950,5,Vitality,BANNED,Nuke,,,MOUZ
+2026-09-05,MOUZ,2396950,6,MOUZ,BANNED,Cache,,,MOUZ
+2026-09-05,MOUZ,2396950,7,,LEFTOVER,Inferno,,,MOUZ
+2026-09-04,furia,2396948,1,Vitality,BANNED,Ancient,,,FURIA
+2026-09-04,furia,2396948,2,FURIA,BANNED,Anubis,,,FURIA
+2026-09-04,furia,2396948,3,Vitality,PICKED,Nuke,13,6,FURIA
+2026-09-04,furia,2396948,4,FURIA,PICKED,Cache,11,13,FURIA
+2026-09-04,furia,2396948,5,Vitality,BANNED,Mirage,,,FURIA
+2026-09-04,furia,2396948,6,FURIA,BANNED,Inferno,,,FURIA
+2026-09-04,furia,2396948,7,,LEFTOVER,Dust2,4,13,FURIA
+2026-08-31,fut,2396946,1,FUT,BANNED,Inferno,,,FUT
+2026-08-31,fut,2396946,2,Vitality,BANNED,Ancient,,,FUT
+2026-08-31,fut,2396946,3,FUT,PICKED,Anubis,7,13,FUT
+2026-08-31,fut,2396946,4,Vitality,PICKED,Dust2,8,13,FUT
+2026-08-31,fut,2396946,5,FUT,BANNED,Nuke,,,FUT
+2026-08-31,fut,2396946,6,Vitality,BANNED,Mirage,,,FUT
+2026-08-31,fut,2396946,7,,LEFTOVER,Cache,,,FUT
+2026-08-30,legacy,2396941,1,Vitality,BANNED,Ancient,,,Vitality
+2026-08-30,legacy,2396941,2,Legacy,BANNED,Anubis,,,Vitality
+2026-08-30,legacy,2396941,3,Vitality,PICKED,Nuke,16,14,Vitality
+2026-08-30,legacy,2396941,4,Legacy,PICKED,Mirage,9,13,Vitality
+2026-08-30,legacy,2396941,5,Vitality,BANNED,Cache,,,Vitality
+2026-08-30,legacy,2396941,6,Legacy,BANNED,Inferno,,,Vitality
+2026-08-30,legacy,2396941,7,,LEFTOVER,Dust2,13,8,Vitality
+2026-08-29,9z,2396935,1,9z,BANNED,Anubis,,,Vitality
+2026-08-29,9z,2396935,2,Vitality,BANNED,Ancient,,,Vitality
+2026-08-29,9z,2396935,3,9z,PICKED,Dust2,13,2,Vitality
+2026-08-29,9z,2396935,4,Vitality,PICKED,Nuke,13,6,Vitality
+2026-08-29,9z,2396935,5,9z,BANNED,Inferno,,,Vitality
+2026-08-29,9z,2396935,6,Vitality,BANNED,Mirage,,,Vitality
+2026-08-29,9z,2396935,7,,LEFTOVER,Cache,,,Vitality
+2026-08-27,ic,2396927,1,Inner Circle,BANNED,Inferno,,,Vitality
+2026-08-27,ic,2396927,2,Vitality,BANNED,Ancient,,,Vitality
+2026-08-27,ic,2396927,3,Inner Circle,PICKED,Anubis,8,13,Vitality
+2026-08-27,ic,2396927,4,Vitality,PICKED,Cache,13,16,Vitality
+2026-08-27,ic,2396927,5,Inner Circle,BANNED,Nuke,,,Vitality
+2026-08-27,ic,2396927,6,Vitality,BANNED,Mirage,,,Vitality
+2026-08-27,ic,2396927,7,,LEFTOVER,Dust2,,,Vitality
+2026-08-21,spirit,2396610,1,Spirit,BANNED,Inferno,,,Vitality
+2026-08-21,spirit,2396610,2,Vitality,BANNED,Ancient,,,Vitality
+2026-08-21,spirit,2396610,3,Spirit,PICKED,Anubis,11,13,Vitality
+2026-08-21,spirit,2396610,4,Vitality,PICKED,Nuke,16,14,Vitality
+2026-08-21,spirit,2396610,5,Spirit,BANNED,Cache,,,Vitality
+2026-08-21,spirit,2396610,6,Vitality,BANNED,Dust2,,,Vitality
+2026-08-21,spirit,2396610,7,,LEFTOVER,Mirage,3,13,Vitality
+2026-08-20,faze,2396605,1,Vitality,BANNED,Ancient,,,FaZe
+2026-08-20,faze,2396605,2,FaZe,BANNED,Inferno,,,FaZe
+2026-08-20,faze,2396605,3,Vitality,PICKED,Dust2,11,13,FaZe
+2026-08-20,faze,2396605,4,FaZe,PICKED,Cache,6,13,FaZe
+2026-08-20,faze,2396605,5,Vitality,BANNED,Anubis,,,FaZe
+2026-08-20,faze,2396605,6,FaZe,BANNED,Mirage,,,FaZe
+2026-08-20,faze,2396605,7,,LEFTOVER,Nuke,,,FaZe
+2026-08-16,lvg,2396596,1,Lynn Vision,BANNED,Mirage,,,Lynn Vision
+2026-08-16,lvg,2396596,2,Vitality,BANNED,Ancient,,,Lynn Vision
+2026-08-16,lvg,2396596,3,Lynn Vision,PICKED,Dust2,2,13,Lynn Vision
+2026-08-16,lvg,2396596,4,Vitality,PICKED,Inferno,5,13,Lynn Vision
+2026-08-16,lvg,2396596,5,Lynn Vision,BANNED,Nuke,,,Lynn Vision
+2026-08-16,lvg,2396596,6,Vitality,BANNED,Cache,,,Lynn Vision
+2026-08-16,lvg,2396596,7,,LEFTOVER,Anubis,,,Lynn Vision
+2026-08-14,b8,2396583,1,B8,BANNED,Anubis,,,B8
+2026-08-14,b8,2396583,2,Vitality,BANNED,Ancient,,,B8
+2026-08-14,b8,2396583,3,B8,PICKED,Mirage,12,16,B8
+2026-08-14,b8,2396583,4,Vitality,PICKED,Inferno,13,11,B8
+2026-08-14,b8,2396583,5,B8,BANNED,Nuke,,,B8
+2026-08-14,b8,2396583,6,Vitality,BANNED,Cache,,,B8
+2026-08-14,b8,2396583,7,,LEFTOVER,Dust2,13,4,B8
+2026-08-12,100t,2396567,1,100 Thieves,BANNED,Cache,,,Vitality
+2026-08-12,100t,2396567,2,Vitality,BANNED,Ancient,,,Vitality
+2026-08-12,100t,2396567,3,Vitality,BANNED,Anubis,,,Vitality
+2026-08-12,100t,2396567,4,100 Thieves,BANNED,Dust2,,,Vitality
+2026-08-12,100t,2396567,5,100 Thieves,BANNED,Inferno,,,Vitality
+2026-08-12,100t,2396567,6,Vitality,BANNED,Mirage,,,Vitality
+2026-08-12,100t,2396567,7,,LEFTOVER,Nuke,13,4,Vitality
+2026-07-24,tl,2396004,1,Liquid,BANNED,Dust2,,,Liquid
+2026-07-24,tl,2396004,2,Vitality,BANNED,Ancient,,,Liquid
+2026-07-24,tl,2396004,3,Liquid,PICKED,Anubis,13,10,Liquid
+2026-07-24,tl,2396004,4,Vitality,PICKED,Nuke,13,9,Liquid
+2026-07-24,tl,2396004,5,Liquid,BANNED,Cache,,,Liquid
+2026-07-24,tl,2396004,6,Vitality,BANNED,Mirage,,,Liquid
+2026-07-24,tl,2396004,7,,LEFTOVER,Inferno,,,Liquid
+2026-06-19,falcons,2394999,1,Falcons,BANNED,Overpass,,,Falcons
+2026-06-19,falcons,2394999,2,Vitality,BANNED,Ancient,,,Falcons
+2026-06-19,falcons,2394999,3,Falcons,PICKED,Anubis,13,11,Falcons
+2026-06-19,falcons,2394999,4,Vitality,PICKED,Inferno,11,13,Falcons
+2026-06-19,falcons,2394999,5,Vitality,BANNED,Mirage,,,Falcons
+2026-06-19,falcons,2394999,6,Falcons,BANNED,Nuke,,,Falcons
+2026-06-19,falcons,2394999,7,,LEFTOVER,Dust2,13,11,Falcons
+2026-06-14,betboom,2394989,1,Vitality,BANNED,Ancient,,,BETBOOM
+2026-06-14,betboom,2394989,2,BETBOOM,BANNED,Inferno,,,BETBOOM
+2026-06-14,betboom,2394989,3,Vitality,PICKED,Overpass,8,13,BETBOOM
+2026-06-14,betboom,2394989,4,BETBOOM,PICKED,Nuke,11,13,BETBOOM
+2026-06-14,betboom,2394989,5,BETBOOM,BANNED,Dust2,,,BETBOOM
+2026-06-14,betboom,2394989,6,Vitality,BANNED,Anubis,,,BETBOOM
+2026-06-14,betboom,2394989,7,,LEFTOVER,Mirage,,,BETBOOM
+2026-06-13,MOUZ,2394983,1,MOUZ,BANNED,Anubis,,,Vitality
+2026-06-13,MOUZ,2394983,2,Vitality,BANNED,Ancient,,,Vitality
+2026-06-13,MOUZ,2394983,3,MOUZ,PICKED,Mirage,13,9,Vitality
+2026-06-13,MOUZ,2394983,4,Vitality,PICKED,Dust2,7,13,Vitality
+2026-06-13,MOUZ,2394983,5,Vitality,BANNED,Nuke,,,Vitality
+2026-06-13,MOUZ,2394983,6,MOUZ,BANNED,Overpass,,,Vitality
+2026-06-13,MOUZ,2394983,7,,LEFTOVER,Inferno,13,4,Vitality
+2026-06-12,9z,2394978,1,9z,BANNED,Anubis,,,Vitality
+2026-06-12,9z,2394978,2,Vitality,BANNED,Ancient,,,Vitality
+2026-06-12,9z,2394978,3,9z,PICKED,Inferno,13,4,Vitality
+2026-06-12,9z,2394978,4,Vitality,PICKED,Mirage,9,13,Vitality
+2026-06-12,9z,2394978,5,Vitality,BANNED,Nuke,,,Vitality
+2026-06-12,9z,2394978,6,9z,BANNED,Overpass,,,Vitality
+2026-06-12,9z,2394978,7,,LEFTOVER,Dust2,11,13,Vitality
+2026-06-11,fut,2394898,1,FUT,BANNED,Inferno,,,Vitality
+2026-06-11,fut,2394898,2,Vitality,BANNED,Ancient,,,Vitality
+2026-06-11,fut,2394898,3,FUT,PICKED,Anubis,5,13,Vitality
+2026-06-11,fut,2394898,4,Vitality,PICKED,Overpass,13,2,Vitality
+2026-06-11,fut,2394898,5,Vitality,BANNED,Mirage,,,Vitality
+2026-06-11,fut,2394898,6,FUT,BANNED,Dust2,,,Vitality
+2026-06-11,fut,2394898,7,,LEFTOVER,Nuke,13,8,Vitality
+2026-05-15,navi,2394174,1,Vitality,BANNED,Ancient,,,Natus Vincere
+2026-05-15,navi,2394174,2,Natus Vincere,BANNED,Overpass,,,Natus Vincere
+2026-05-15,navi,2394174,3,Vitality,PICKED,Dust2,11,13,Natus Vincere
+2026-05-15,navi,2394174,4,Natus Vincere,PICKED,Anubis,13,11,Natus Vincere
+2026-05-15,navi,2394174,5,Vitality,BANNED,Nuke,,,Natus Vincere
+2026-05-15,navi,2394174,6,Natus Vincere,BANNED,Mirage,,,Natus Vincere
+2026-05-15,navi,2394174,7,,LEFTOVER,Inferno,13,3,Natus Vincere
+2026-05-13,faze,2394166,1,FaZe,BANNED,Inferno,,,FaZe
+2026-05-13,faze,2394166,2,Vitality,BANNED,Ancient,,,FaZe
+2026-05-13,faze,2394166,3,FaZe,PICKED,Nuke,14,16,FaZe
+2026-05-13,faze,2394166,4,Vitality,PICKED,Dust2,5,13,FaZe
+2026-05-13,faze,2394166,5,FaZe,BANNED,Overpass,,,FaZe
+2026-05-13,faze,2394166,6,Vitality,BANNED,Anubis,,,FaZe
+2026-05-13,faze,2394166,7,,LEFTOVER,Mirage,,,FaZe
+2026-05-13,b8,2394170,1,B8,BANNED,Anubis,,,B8
+2026-05-13,b8,2394170,2,Vitality,BANNED,Ancient,,,B8
+2026-05-13,b8,2394170,3,B8,PICKED,Mirage,5,13,B8
+2026-05-13,b8,2394170,4,Vitality,PICKED,Dust2,8,13,B8
+2026-05-13,b8,2394170,5,B8,BANNED,Inferno,,,B8
+2026-05-13,b8,2394170,6,Vitality,BANNED,Nuke,,,B8
+2026-05-13,b8,2394170,7,,LEFTOVER,Overpass,,,B8
+2026-05-12,betboom,2394157,1,BETBOOM,BANNED,Inferno,,,BETBOOM
+2026-05-12,betboom,2394157,2,Vitality,BANNED,Ancient,,,BETBOOM
+2026-05-12,betboom,2394157,3,BETBOOM,PICKED,Anubis,13,10,BETBOOM
+2026-05-12,betboom,2394157,4,Vitality,PICKED,Overpass,8,13,BETBOOM
+2026-05-12,betboom,2394157,5,BETBOOM,BANNED,Dust2,,,BETBOOM
+2026-05-12,betboom,2394157,6,Vitality,BANNED,Mirage,,,BETBOOM
+2026-05-12,betboom,2394157,7,,LEFTOVER,Nuke,13,8,BETBOOM
+2026-05-11,bc.game,2394108,1,BC.Game,BANNED,Inferno,,,Vitality
+2026-05-11,bc.game,2394108,2,Vitality,BANNED,Ancient,,,Vitality
+2026-05-11,bc.game,2394108,3,BC.Game,PICKED,Mirage,13,7,Vitality
+2026-05-11,bc.game,2394108,4,Vitality,PICKED,Dust2,13,10,Vitality
+2026-05-11,bc.game,2394108,5,BC.Game,BANNED,Nuke,,,Vitality
+2026-05-11,bc.game,2394108,6,Vitality,BANNED,Anubis,,,Vitality
+2026-05-11,bc.game,2394108,7,,LEFTOVER,Overpass,,,Vitality
+2026-05-03,navi,2393350,1,Vitality,BANNED,Ancient,,,Natus Vincere
+2026-05-03,navi,2393350,2,Natus Vincere,BANNED,Overpass,,,Natus Vincere
+2026-05-03,navi,2393350,3,Vitality,PICKED,Nuke,12,16,Natus Vincere
+2026-05-03,navi,2393350,4,Natus Vincere,PICKED,Anubis,11,13,Natus Vincere
+2026-05-03,navi,2393350,5,Vitality,PICKED,Dust2,3,13,Natus Vincere
+2026-05-03,navi,2393350,6,Natus Vincere,PICKED,Mirage,,,Natus Vincere
+2026-05-03,navi,2393350,7,,LEFTOVER,Inferno,,,Natus Vincere
+2026-05-02,gl,2393349,1,GamerLegion,BANNED,Dust2,,,Vitality
+2026-05-02,gl,2393349,2,Vitality,BANNED,Ancient,,,Vitality
+2026-05-02,gl,2393349,3,GamerLegion,PICKED,Mirage,13,1,Vitality
+2026-05-02,gl,2393349,4,Vitality,PICKED,Overpass,16,14,Vitality
+2026-05-02,gl,2393349,5,GamerLegion,BANNED,Inferno,,,Vitality
+2026-05-02,gl,2393349,6,Vitality,BANNED,Anubis,,,Vitality
+2026-05-02,gl,2393349,7,,LEFTOVER,Nuke,,,Vitality
+2026-04-30,g2,2393334,1,G2,BANNED,Nuke,,,Vitality
+2026-04-30,g2,2393334,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-30,g2,2393334,3,G2,PICKED,Mirage,16,13,Vitality
+2026-04-30,g2,2393334,4,Vitality,PICKED,Overpass,11,13,Vitality
+2026-04-30,g2,2393334,5,G2,BANNED,Anubis,,,Vitality
+2026-04-30,g2,2393334,6,Vitality,BANNED,Inferno,,,Vitality
+2026-04-30,g2,2393334,7,,LEFTOVER,Dust2,13,3,Vitality
+2026-04-29,fut,2393319,1,FUT,BANNED,Inferno,,,Vitality
+2026-04-29,fut,2393319,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-29,fut,2393319,3,FUT,PICKED,Mirage,13,6,Vitality
+2026-04-29,fut,2393319,4,Vitality,PICKED,Dust2,11,13,Vitality
+2026-04-29,fut,2393319,5,FUT,BANNED,Overpass,,,Vitality
+2026-04-29,fut,2393319,6,Vitality,BANNED,Anubis,,,Vitality
+2026-04-29,fut,2393319,7,,LEFTOVER,Nuke,13,11,Vitality
+2026-04-19,spirit,2393245,1,Spirit,BANNED,Inferno,,,Spirit
+2026-04-19,spirit,2393245,2,Vitality,BANNED,Ancient,,,Spirit
+2026-04-19,spirit,2393245,3,Spirit,PICKED,Mirage,13,16,Spirit
+2026-04-19,spirit,2393245,4,Vitality,PICKED,Nuke,10,13,Spirit
+2026-04-19,spirit,2393245,5,Spirit,PICKED,Dust2,5,13,Spirit
+2026-04-19,spirit,2393245,6,Vitality,PICKED,Overpass,,,Spirit
+2026-04-19,spirit,2393245,7,,LEFTOVER,Anubis,,,Spirit
+2026-04-18,furia,2393243,1,Vitality,BANNED,Mirage,,,FURIA
+2026-04-18,furia,2393243,2,FURIA,BANNED,Inferno,,,FURIA
+2026-04-18,furia,2393243,3,Vitality,PICKED,Overpass,10,13,FURIA
+2026-04-18,furia,2393243,4,FURIA,PICKED,Ancient,10,13,FURIA
+2026-04-18,furia,2393243,5,Vitality,BANNED,Anubis,,,FURIA
+2026-04-18,furia,2393243,6,FURIA,BANNED,Nuke,,,FURIA
+2026-04-18,furia,2393243,7,,LEFTOVER,Dust2,,,FURIA
+2026-04-17,navi,2393241,1,Natus Vincere,BANNED,Overpass,,,Vitality
+2026-04-17,navi,2393241,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-17,navi,2393241,3,Natus Vincere,PICKED,Mirage,13,4,Vitality
+2026-04-17,navi,2393241,4,Vitality,PICKED,Dust2,13,6,Vitality
+2026-04-17,navi,2393241,5,Natus Vincere,BANNED,Inferno,,,Vitality
+2026-04-17,navi,2393241,6,Vitality,BANNED,Anubis,,,Vitality
+2026-04-17,navi,2393241,7,,LEFTOVER,Nuke,,,Vitality
+2026-04-15,falcons,2393236,1,Falcons,BANNED,Overpass,,,Vitality
+2026-04-15,falcons,2393236,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-15,falcons,2393236,3,Falcons,PICKED,Mirage,10,13,Vitality
+2026-04-15,falcons,2393236,4,Vitality,PICKED,Dust2,13,6,Vitality
+2026-04-15,falcons,2393236,5,Falcons,BANNED,Inferno,,,Vitality
+2026-04-15,falcons,2393236,6,Vitality,BANNED,Anubis,,,Vitality
+2026-04-15,falcons,2393236,7,,LEFTOVER,Nuke,14,16,Vitality
+2026-04-14,g2,2393224,1,G2,BANNED,Nuke,,,Vitality
+2026-04-14,g2,2393224,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-14,g2,2393224,3,G2,PICKED,Mirage,5,13,Vitality
+2026-04-14,g2,2393224,4,Vitality,PICKED,Inferno,16,13,Vitality
+2026-04-14,g2,2393224,5,G2,BANNED,Anubis,,,Vitality
+2026-04-14,g2,2393224,6,Vitality,BANNED,Overpass,,,Vitality
+2026-04-14,g2,2393224,7,,LEFTOVER,Dust2,13,11,Vitality
+2026-04-13,red canids,2393081,1,RED Canids,BANNED,Dust2,,,Vitality
+2026-04-13,red canids,2393081,2,Vitality,BANNED,Ancient,,,Vitality
+2026-04-13,red canids,2393081,3,RED Canids,PICKED,Nuke,13,4,Vitality
+2026-04-13,red canids,2393081,4,Vitality,PICKED,Overpass,13,6,Vitality
+2026-04-13,red canids,2393081,5,RED Canids,BANNED,Inferno,,,Vitality
+2026-04-13,red canids,2393081,6,Vitality,BANNED,Anubis,,,Vitality
+2026-04-13,red canids,2393081,7,,LEFTOVER,Mirage,,,Vitality
+2026-03-29,navi,2391775,1,Vitality,BANNED,Ancient,,,Vitality
+2026-03-29,navi,2391775,2,Natus Vincere,BANNED,Overpass,,,Vitality
+2026-03-29,navi,2391775,3,Vitality,PICKED,Inferno,13,7,Vitality
+2026-03-29,navi,2391775,4,Natus Vincere,PICKED,Anubis,13,10,Vitality
+2026-03-29,navi,2391775,5,Vitality,PICKED,Dust2,13,10,Vitality
+2026-03-29,navi,2391775,6,Natus Vincere,PICKED,Mirage,,,Vitality
+2026-03-29,navi,2391775,7,,LEFTOVER,Nuke,,,Vitality
+2026-03-28,aurora,2391773,1,Aurora,BANNED,Overpass,,,Vitality
+2026-03-28,aurora,2391773,2,Vitality,BANNED,Anubis,,,Vitality
+2026-03-28,aurora,2391773,3,Aurora,PICKED,Inferno,13,5,Vitality
+2026-03-28,aurora,2391773,4,Vitality,PICKED,Nuke,13,5,Vitality
+2026-03-28,aurora,2391773,5,Aurora,BANNED,Dust2,,,Vitality
+2026-03-28,aurora,2391773,6,Vitality,BANNED,Ancient,,,Vitality
+2026-03-28,aurora,2391773,7,,LEFTOVER,Mirage,,,Vitality
+2026-03-23,parivision,2391769,1,PARIVISION,BANNED,Nuke,,,PARIVISION
+2026-03-23,parivision,2391769,2,Vitality,BANNED,Ancient,,,PARIVISION
+2026-03-23,parivision,2391769,3,PARIVISION,PICKED,Mirage,9,13,PARIVISION
+2026-03-23,parivision,2391769,4,Vitality,PICKED,Inferno,12,16,PARIVISION
+2026-03-23,parivision,2391769,5,PARIVISION,BANNED,Overpass,,,PARIVISION
+2026-03-23,parivision,2391769,6,Vitality,BANNED,Anubis,,,PARIVISION
+2026-03-23,parivision,2391769,7,,LEFTOVER,Dust2,,,PARIVISION
+2026-03-21,mongolz,2391762,1,The MongolZ,BANNED,Anubis,,,The MongolZ
+2026-03-21,mongolz,2391762,2,Vitality,BANNED,Ancient,,,The MongolZ
+2026-03-21,mongolz,2391762,3,The MongolZ,PICKED,Mirage,4,13,The MongolZ
+2026-03-21,mongolz,2391762,4,Vitality,PICKED,Overpass,13,16,The MongolZ
+2026-03-21,mongolz,2391762,5,The MongolZ,BANNED,Dust2,,,The MongolZ
+2026-03-21,mongolz,2391762,6,Vitality,BANNED,Nuke,,,The MongolZ
+2026-03-21,mongolz,2391762,7,,LEFTOVER,Inferno,,,The MongolZ
+2026-03-19,9z,2390818,1,9z,BANNED,Anubis,,,Vitality
+2026-03-19,9z,2390818,2,Vitality,BANNED,Ancient,,,Vitality
+2026-03-19,9z,2390818,3,9z,PICKED,Overpass,13,3,Vitality
+2026-03-19,9z,2390818,4,Vitality,PICKED,Nuke,13,5,Vitality
+2026-03-19,9z,2390818,5,9z,BANNED,Dust2,,,Vitality
+2026-03-19,9z,2390818,6,Vitality,BANNED,Mirage,,,Vitality
+2026-03-19,9z,2390818,7,,LEFTOVER,Inferno,,,Vitality
+2026-02-22,parivision,2389987,1,Vitality,BANNED,Ancient,,,PARIVISION
+2026-02-22,parivision,2389987,2,PARIVISION,BANNED,Nuke,,,PARIVISION
+2026-02-22,parivision,2389987,3,Vitality,PICKED,Overpass,10,13,PARIVISION
+2026-02-22,parivision,2389987,4,PARIVISION,PICKED,Dust2,4,13,PARIVISION
+2026-02-22,parivision,2389987,5,Vitality,PICKED,Inferno,13,16,PARIVISION
+2026-02-22,parivision,2389987,6,PARIVISION,PICKED,Mirage,,,PARIVISION
+2026-02-22,parivision,2389987,7,,LEFTOVER,Anubis,,,PARIVISION
+2026-02-21,mongolz,2389985,1,The MongolZ,BANNED,Anubis,,,Vitality
+2026-02-21,mongolz,2389985,2,Vitality,BANNED,Ancient,,,Vitality
+2026-02-21,mongolz,2389985,3,The MongolZ,PICKED,Mirage,16,13,Vitality
+2026-02-21,mongolz,2389985,4,Vitality,PICKED,Dust2,13,3,Vitality
+2026-02-21,mongolz,2389985,5,Vitality,BANNED,Nuke,,,Vitality
+2026-02-21,mongolz,2389985,6,The MongolZ,BANNED,Overpass,,,Vitality
+2026-02-21,mongolz,2389985,7,,LEFTOVER,Inferno,,,Vitality
+2026-02-20,aurora,2389982,1,Aurora,BANNED,Nuke,,,Vitality
+2026-02-20,aurora,2389982,2,Vitality,BANNED,Anubis,,,Vitality
+2026-02-20,aurora,2389982,3,Aurora,PICKED,Inferno,13,8,Vitality
+2026-02-20,aurora,2389982,4,Vitality,PICKED,Overpass,13,10,Vitality
+2026-02-20,aurora,2389982,5,Vitality,BANNED,Ancient,,,Vitality
+2026-02-20,aurora,2389982,6,Aurora,BANNED,Dust2,,,Vitality
+2026-02-20,aurora,2389982,7,,LEFTOVER,Mirage,,,Vitality
+2026-02-16,MOUZ,2389967,1,Vitality,BANNED,Ancient,,,MOUZ
+2026-02-16,MOUZ,2389967,2,MOUZ,BANNED,Anubis,,,MOUZ
+2026-02-16,MOUZ,2389967,3,Vitality,PICKED,Dust2,5,13,MOUZ
+2026-02-16,MOUZ,2389967,4,MOUZ,PICKED,Inferno,8,13,MOUZ
+2026-02-16,MOUZ,2389967,5,MOUZ,BANNED,Nuke,,,MOUZ
+2026-02-16,MOUZ,2389967,6,Vitality,BANNED,Mirage,,,MOUZ
+2026-02-16,MOUZ,2389967,7,,LEFTOVER,Overpass,,,MOUZ
+2026-02-15,mongolz,2389961,1,The MongolZ,BANNED,Anubis,,,Vitality
+2026-02-15,mongolz,2389961,2,Vitality,BANNED,Ancient,,,Vitality
+2026-02-15,mongolz,2389961,3,The MongolZ,PICKED,Mirage,10,13,Vitality
+2026-02-15,mongolz,2389961,4,Vitality,PICKED,Dust2,13,4,Vitality
+2026-02-15,mongolz,2389961,5,Vitality,BANNED,Inferno,,,Vitality
+2026-02-15,mongolz,2389961,6,The MongolZ,BANNED,Overpass,,,Vitality
+2026-02-15,mongolz,2389961,7,,LEFTOVER,Nuke,13,4,Vitality
+2026-02-14,g2,2389951,1,G2,BANNED,Nuke,,,Vitality
+2026-02-14,g2,2389951,2,Vitality,BANNED,Ancient,,,Vitality
+2026-02-14,g2,2389951,3,G2,PICKED,Mirage,13,11,Vitality
+2026-02-14,g2,2389951,4,Vitality,PICKED,Inferno,8,13,Vitality
+2026-02-14,g2,2389951,5,Vitality,BANNED,Dust2,,,Vitality
+2026-02-14,g2,2389951,6,G2,BANNED,Overpass,,,Vitality
+2026-02-14,g2,2389951,7,,LEFTOVER,Anubis,13,8,Vitality
+2026-02-08,furia,2389666,1,FURIA,BANNED,Dust2,,,FURIA
+2026-02-08,furia,2389666,2,Vitality,BANNED,Ancient,,,FURIA
+2026-02-08,furia,2389666,3,FURIA,PICKED,Mirage,13,11,FURIA
+2026-02-08,furia,2389666,4,Vitality,PICKED,Inferno,8,13,FURIA
+2026-02-08,furia,2389666,5,FURIA,PICKED,Nuke,2,13,FURIA
+2026-02-08,furia,2389666,6,Vitality,PICKED,Overpass,10,13,FURIA
+2026-02-08,furia,2389666,7,,LEFTOVER,Anubis,,,FURIA
+2026-02-07,MOUZ,2389664,1,MOUZ,BANNED,Anubis,,,Vitality
+2026-02-07,MOUZ,2389664,2,Vitality,BANNED,Ancient,,,Vitality
+2026-02-07,MOUZ,2389664,3,MOUZ,PICKED,Nuke,13,7,Vitality
+2026-02-07,MOUZ,2389664,4,Vitality,PICKED,Dust2,13,6,Vitality
+2026-02-07,MOUZ,2389664,5,MOUZ,BANNED,Overpass,,,Vitality
+2026-02-07,MOUZ,2389664,6,Vitality,BANNED,Inferno,,,Vitality
+2026-02-07,MOUZ,2389664,7,,LEFTOVER,Mirage,,,Vitality
+2026-02-03,aurora,2389658,1,Aurora,BANNED,Mirage,,,Vitality
+2026-02-03,aurora,2389658,2,Vitality,BANNED,Anubis,,,Vitality
+2026-02-03,aurora,2389658,3,Aurora,PICKED,Ancient,25,22,Vitality
+2026-02-03,aurora,2389658,4,Vitality,PICKED,Overpass,13,7,Vitality
+2026-02-03,aurora,2389658,5,Aurora,BANNED,Nuke,,,Vitality
+2026-02-03,aurora,2389658,6,Vitality,BANNED,Inferno,,,Vitality
+2026-02-03,aurora,2389658,7,,LEFTOVER,Dust2,,,Vitality
+2026-02-02,3dmax,2389649,1,3DMAX,BANNED,Mirage,,,3DMAX
+2026-02-02,3dmax,2389649,2,Vitality,BANNED,Ancient,,,3DMAX
+2026-02-02,3dmax,2389649,3,3DMAX,PICKED,Inferno,6,13,3DMAX
+2026-02-02,3dmax,2389649,4,Vitality,PICKED,Dust2,6,13,3DMAX
+2026-02-02,3dmax,2389649,5,3DMAX,BANNED,Overpass,,,3DMAX
+2026-02-02,3dmax,2389649,6,Vitality,BANNED,Anubis,,,3DMAX
+2026-02-02,3dmax,2389649,7,,LEFTOVER,Nuke,,,3DMAX
+2026-01-31,bc.game,2389641,1,BC.Game,BANNED,Mirage,,,Vitality
+2026-01-31,bc.game,2389641,2,Vitality,BANNED,Ancient,,,Vitality
+2026-01-31,bc.game,2389641,3,BC.Game,PICKED,Dust2,13,8,Vitality
+2026-01-31,bc.game,2389641,4,Vitality,PICKED,Overpass,13,5,Vitality
+2026-01-31,bc.game,2389641,5,BC.Game,BANNED,Anubis,,,Vitality
+2026-01-31,bc.game,2389641,6,Vitality,BANNED,Nuke,,,Vitality
+2026-01-31,bc.game,2389641,7,,LEFTOVER,Inferno,,,Vitality
+2026-01-24,falcons,2389279,1,Vitality,BANNED,Ancient,,,Vitality
+2026-01-24,falcons,2389279,2,Falcons,BANNED,Overpass,,,Vitality
+2026-01-24,falcons,2389279,3,Vitality,PICKED,Inferno,10,13,Vitality
+2026-01-24,falcons,2389279,4,Falcons,PICKED,Anubis,13,4,Vitality
+2026-01-24,falcons,2389279,5,Vitality,BANNED,Nuke,,,Vitality
+2026-01-24,falcons,2389279,6,Falcons,BANNED,Dust2,,,Vitality
+2026-01-24,falcons,2389279,7,,LEFTOVER,Mirage,6,13,Vitality
+2026-01-23,gl,2389277,1,GamerLegion,BANNED,Anubis,,,GamerLegion
+2026-01-23,gl,2389277,2,Vitality,BANNED,Ancient,,,GamerLegion
+2026-01-23,gl,2389277,3,GamerLegion,PICKED,Inferno,9,13,GamerLegion
+2026-01-23,gl,2389277,4,Vitality,PICKED,Dust2,11,13,GamerLegion
+2026-01-23,gl,2389277,5,GamerLegion,BANNED,Overpass,,,GamerLegion
+2026-01-23,gl,2389277,6,Vitality,BANNED,Mirage,,,GamerLegion
+2026-01-23,gl,2389277,7,,LEFTOVER,Nuke,,,GamerLegion
+2026-01-18,eyeballers,2389273,1,EYEBALLERS,BANNED,Dust2,,,EYEBALLERS
+2026-01-18,eyeballers,2389273,2,Vitality,BANNED,Ancient,,,EYEBALLERS
+2026-01-18,eyeballers,2389273,3,EYEBALLERS,PICKED,Anubis,16,19,EYEBALLERS
+2026-01-18,eyeballers,2389273,4,Vitality,PICKED,Overpass,8,13,EYEBALLERS
+2026-01-18,eyeballers,2389273,5,EYEBALLERS,BANNED,Nuke,,,EYEBALLERS
+2026-01-18,eyeballers,2389273,6,Vitality,BANNED,Inferno,,,EYEBALLERS
+2026-01-18,eyeballers,2389273,7,,LEFTOVER,Mirage,,,EYEBALLERS
+2026-01-14,vp,2389263,1,Virtus.pro,BANNED,Nuke,,,Virtus.pro
+2026-01-14,vp,2389263,2,Vitality,BANNED,Ancient,,,Virtus.pro
+2026-01-14,vp,2389263,3,Virtus.pro,PICKED,Overpass,8,13,Virtus.pro
+2026-01-14,vp,2389263,4,Vitality,PICKED,Dust2,6,13,Virtus.pro
+2026-01-14,vp,2389263,5,Virtus.pro,BANNED,Mirage,,,Virtus.pro
+2026-01-14,vp,2389263,6,Vitality,BANNED,Anubis,,,Virtus.pro
+2026-01-14,vp,2389263,7,,LEFTOVER,Inferno,,,Virtus.pro

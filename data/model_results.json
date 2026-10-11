@@ -1,0 +1,319 @@
+{
+ "dataset": {
+  "map_results_used": 1955,
+  "teams": 81,
+  "window": "2025-06-01..2026-10-10",
+  "source": "Liquipedia match2 records of every tournament Vitality or MOUZ played since May 2024"
+ },
+ "backtest": {
+  "team_strength_only": {
+   "logloss": 0.6538,
+   "accuracy": 0.6253,
+   "n_maps": 886
+  },
+  "map_aware_lam30": {
+   "logloss": 0.6542,
+   "accuracy": 0.6208,
+   "n_maps": 886
+  },
+  "map_aware_lam3": {
+   "logloss": 0.665,
+   "accuracy": 0.6163,
+   "n_maps": 886
+  },
+  "coin_flip_logloss": 0.6931
+ },
+ "calibration": [
+  {
+   "bucket": "0.50-0.55",
+   "n": 192,
+   "mean_pred": 0.523,
+   "actual": 0.531
+  },
+  {
+   "bucket": "0.55-0.60",
+   "n": 215,
+   "mean_pred": 0.571,
+   "actual": 0.6
+  },
+  {
+   "bucket": "0.60-0.65",
+   "n": 184,
+   "mean_pred": 0.625,
+   "actual": 0.614
+  },
+  {
+   "bucket": "0.65-0.70",
+   "n": 136,
+   "mean_pred": 0.669,
+   "actual": 0.676
+  },
+  {
+   "bucket": "0.70-0.80",
+   "n": 137,
+   "mean_pred": 0.731,
+   "actual": 0.745
+  },
+  {
+   "bucket": "0.80-1.00",
+   "n": 22,
+   "mean_pred": 0.821,
+   "actual": 0.727
+  }
+ ],
+ "variants": {
+  "base_hl180": {
+   "logit_diff": 0.325,
+   "sd": 0.254,
+   "p_map": 0.581,
+   "p_series_point": 0.649,
+   "p_series_integrated": 0.642,
+   "top8_strength": [
+    [
+     "vitality",
+     1.157
+    ],
+    [
+     "spirit",
+     1.023
+    ],
+    [
+     "mouz",
+     0.832
+    ],
+    [
+     "falcons",
+     0.767
+    ],
+    [
+     "furia",
+     0.58
+    ],
+    [
+     "aurora",
+     0.577
+    ],
+    [
+     "navi",
+     0.448
+    ],
+    [
+     "1w",
+     0.39
+    ]
+   ]
+  },
+  "base_hl90": {
+   "logit_diff": 0.21,
+   "sd": 0.318,
+   "p_map": 0.552,
+   "p_series_point": 0.597,
+   "p_series_integrated": 0.59,
+   "top8_strength": [
+    [
+     "vitality",
+     0.997
+    ],
+    [
+     "spirit",
+     0.902
+    ],
+    [
+     "mouz",
+     0.787
+    ],
+    [
+     "falcons",
+     0.627
+    ],
+    [
+     "aurora",
+     0.527
+    ],
+    [
+     "furia",
+     0.423
+    ],
+    [
+     "1w",
+     0.337
+    ],
+    [
+     "navi",
+     0.322
+    ]
+   ]
+  },
+  "lineup_aware_hl180": {
+   "logit_diff": 0.231,
+   "sd": 0.337,
+   "p_map": 0.557,
+   "p_series_point": 0.607,
+   "p_series_integrated": 0.599,
+   "top8_strength": [
+    [
+     "vitality",
+     1.171
+    ],
+    [
+     "spirit",
+     1.005
+    ],
+    [
+     "mouz",
+     0.941
+    ],
+    [
+     "falcons",
+     0.736
+    ],
+    [
+     "mouz_pre",
+     0.568
+    ],
+    [
+     "aurora",
+     0.548
+    ],
+    [
+     "furia",
+     0.539
+    ],
+    [
+     "navi",
+     0.424
+    ]
+   ]
+  },
+  "lineup_aware_hl90": {
+   "logit_diff": 0.166,
+   "sd": 0.381,
+   "p_map": 0.541,
+   "p_series_point": 0.577,
+   "p_series_integrated": 0.571,
+   "top8_strength": [
+    [
+     "vitality",
+     1.026
+    ],
+    [
+     "spirit",
+     0.89
+    ],
+    [
+     "mouz",
+     0.861
+    ],
+    [
+     "falcons",
+     0.604
+    ],
+    [
+     "aurora",
+     0.505
+    ],
+    [
+     "mouz_pre",
+     0.393
+    ],
+    [
+     "furia",
+     0.384
+    ],
+    [
+     "1w",
+     0.329
+    ]
+   ]
+  }
+ },
+ "map_aware": {
+  "lineup_aware_lam10": {
+   "p_map": {
+    "Dust2": 0.603,
+    "Mirage": 0.536,
+    "Inferno": 0.529,
+    "Nuke": 0.52,
+    "Cache": 0.614,
+    "Anubis": 0.508,
+    "Ancient": 0.604
+   },
+   "assumed_order": [
+    "Dust2",
+    "Mirage",
+    "Inferno",
+    "Nuke",
+    "Cache"
+   ],
+   "scorelines": {
+    "3-0": 0.171,
+    "3-1": 0.215,
+    "3-2": 0.227,
+    "2-3": 0.143,
+    "1-3": 0.158,
+    "0-3": 0.087
+   },
+   "p_series": 0.612
+  },
+  "lineup_aware_lam30": {
+   "p_map": {
+    "Dust2": 0.577,
+    "Mirage": 0.55,
+    "Inferno": 0.547,
+    "Nuke": 0.543,
+    "Cache": 0.578,
+    "Anubis": 0.537,
+    "Ancient": 0.576
+   },
+   "assumed_order": [
+    "Dust2",
+    "Mirage",
+    "Inferno",
+    "Nuke",
+    "Cache"
+   ],
+   "scorelines": {
+    "3-0": 0.174,
+    "3-1": 0.224,
+    "3-2": 0.212,
+    "2-3": 0.155,
+    "1-3": 0.149,
+    "0-3": 0.086
+   },
+   "p_series": 0.61
+  },
+  "base_lam30": {
+   "p_map": {
+    "Dust2": 0.611,
+    "Mirage": 0.566,
+    "Inferno": 0.57,
+    "Nuke": 0.572,
+    "Cache": 0.596,
+    "Anubis": 0.557,
+    "Ancient": 0.607
+   },
+   "assumed_order": [
+    "Dust2",
+    "Mirage",
+    "Inferno",
+    "Nuke",
+    "Cache"
+   ],
+   "scorelines": {
+    "3-0": 0.197,
+    "3-1": 0.243,
+    "3-2": 0.212,
+    "2-3": 0.144,
+    "1-3": 0.131,
+    "0-3": 0.073
+   },
+   "p_series": 0.653
+  }
+ },
+ "vrs_implied": {
+  "vitality_points": 1911,
+  "mouz_points": 1863,
+  "formula": "1/(1+10^(-(1911-1863)/400))",
+  "p_series": 0.569
+ }
+}
